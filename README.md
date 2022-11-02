@@ -1,3 +1,9 @@
+# next-the-13th
+
+A small showcase project that goes along with the ["What's New in Next.js 13" blog post](https://blog.appsignal.com/2022/11/02/whats-new-in-nextjs-13.html).
+
+-------
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
